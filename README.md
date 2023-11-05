@@ -1,2 +1,2 @@
-# Programa Engenharia-Civil
-Projeto simples de um programa para uma empresa de Engenharia Civil.
+# Engenharia-Civil
+Um projeto simplificado de software que simula as operações de uma empresa de Engenharia Civil.
